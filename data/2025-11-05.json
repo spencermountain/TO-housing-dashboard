@@ -1,0 +1,792 @@
+{
+  "date": "2025-11-05",
+  "cards": [
+    {
+      "section": "Provincial Housing 10-year Target",
+      "desc": "Cumulative number of new homes created Jan 1, 2022 and Aug 31, 2025",
+      "value": 80733,
+      "goal": 285000
+    },
+    {
+      "section": "New Homes Created (Current Year)",
+      "desc": "New homes created Jan 1 - Aug 31, 2025",
+      "value": 7371
+    },
+    {
+      "section": "Residential Units in Planning Applications Under Review",
+      "desc": "Jan 1, 2022 - Jun 30, 2025",
+      "value": 212319
+    },
+    {
+      "section": "Residential Units in Approved OPAs and Zoning By-law Amendments",
+      "desc": "Jan 1, 2022 - Jun 30, 2025",
+      "value": 170693
+    },
+    {
+      "section": "Residential Units in Approved Site Plan Applications",
+      "desc": "Jan 1, 2022 - Jun 30, 2025",
+      "value": 86904
+    },
+    {
+      "section": "Residential Units with Building Permit Applications",
+      "desc": "Jan 1, 2022 - Jun 30, 2025",
+      "value": 53128
+    },
+    {
+      "section": "Residential Units with Issued Building Permit",
+      "desc": "Jan 1, 2022 - Jun 30, 2025",
+      "value": 3382
+    },
+    {
+      "section": "Residential Units Started Construction",
+      "desc": "Jan 1, 2022 - Jun 30, 2025",
+      "value": 66841
+    },
+    {
+      "section": "Rent-Controlled Homes Approved Under HousingTO",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 31378,
+      "goal": 65000
+    },
+    {
+      "section": "Rent-Geared-to-Income (RGI) Homes Approved",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 2784,
+      "goal": 6500
+    },
+    {
+      "section": "Affordable Rental Homes Approved",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 20000,
+      "goal": 41000
+    },
+    {
+      "section": "Rent-Controlled Homes Approved",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 8594,
+      "goal": 17500
+    },
+    {
+      "section": "Rent-Controlled Homes in Pre-Planning Stages",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 6370
+    },
+    {
+      "section": "Rent-Controlled Homes in Planning Applications Under Review",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 11560
+    },
+    {
+      "section": "Rent-Controlled Homes with Approved Official Plan and Zoning Bylaw Amendments",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 8653
+    },
+    {
+      "section": "Rent-Controlled Homes with Approved Site Plan Applications",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 2
+    },
+    {
+      "section": "Rent-Controlled Homes with Building Permit Applications",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 191
+    },
+    {
+      "section": "Rent-Controlled Homes with Issued Building Permit",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 167
+    },
+    {
+      "section": "Rent-Controlled Homes Started Construction",
+      "desc": "Jan 1, 2020 - Jun 30 2025",
+      "value": 3193
+    },
+    {
+      "section": "Rent-Controlled Homes Completed",
+      "desc": "Jan 1, 2020 - Jun 30, 2025",
+      "value": 1242
+    },
+    {
+      "section": "Average Annual Application Volume",
+      "desc": "Average annual development application volume is calculated using volume data from 2017-2020 and 2023. The years 2021 and 2022 are excluded from this average due to unusually high application volume in those years.",
+      "value": 460
+    },
+    {
+      "section": "Average Business Days Building Permit Intake to Permit Closure",
+      "desc": "Corresponding Count: 13,010 Jan 01, 2022 - Jun 30, 2025",
+      "value": 442
+    },
+    {
+      "section": "Average Business Days Building Permit Intake to Issuance",
+      "desc": "Corresponding Count: 23,811 Jan 01, 2022 - Jun 30, 2025",
+      "value": 66
+    },
+    {
+      "section": "Average Business Days Building Permit Issuance to Initial Inspection",
+      "desc": "Corresponding Count: 60,335 Jan 01, 2022 - Jun 30, 2025",
+      "value": 231
+    },
+    {
+      "section": "Average Business Days Building Permit Initial Inspection to Permit Closure",
+      "desc": "Corresponding Count: 13,010 Jan 01, 2022 - Jun 30, 2025",
+      "value": 200
+    },
+    {
+      "section": "Total Number of Building Permit Applications",
+      "desc": "Jan 01, 2022 - Jun 30, 2025",
+      "value": 40318
+    },
+    {
+      "section": "Total Number of Building Permits Issued",
+      "desc": "Jan 01, 2022 - Jun 30, 2025",
+      "value": 33167
+    },
+    {
+      "section": "Total Number of Building Permits Started Construction",
+      "desc": "Jan 01, 2022 - Jun 30, 2025",
+      "value": 75902
+    },
+    {
+      "section": "Total Number of Building Permits Closed",
+      "desc": "Jan 01, 2022 - Jun 30, 2025",
+      "value": 15964
+    },
+    {
+      "section": "Percent of Affordable Rental Units Demolished and Replaced",
+      "desc": "Since January 1, 2017",
+      "value": 105
+    }
+  ],
+  "wards": [
+    {
+      "desc": "Planning Applications Under Review",
+      "rows": [
+        {
+          "ward": "Etobicoke North",
+          "value": 947
+        },
+        {
+          "ward": "Etobicoke Centre",
+          "value": 2892
+        },
+        {
+          "ward": "Etobicoke-Lakeshore",
+          "value": 20864
+        },
+        {
+          "ward": "Parkdale-High Park",
+          "value": 2036
+        },
+        {
+          "ward": "York South-Weston",
+          "value": 7532
+        },
+        {
+          "ward": "York Centre",
+          "value": 14696
+        },
+        {
+          "ward": "Humber River-Black Creek",
+          "value": 6386
+        },
+        {
+          "ward": "Eglinton-Lawrence",
+          "value": 11068
+        },
+        {
+          "ward": "Davenport",
+          "value": 6179
+        },
+        {
+          "ward": "Spadina-Fort York",
+          "value": 14853
+        },
+        {
+          "ward": "University-Rosedale",
+          "value": 5472
+        },
+        {
+          "ward": "Toronto-St. Paul’s",
+          "value": 7903
+        },
+        {
+          "ward": "Toronto Centre",
+          "value": 14660
+        },
+        {
+          "ward": "Toronto-Danforth",
+          "value": 18303
+        },
+        {
+          "ward": "Don Valley West",
+          "value": 8833
+        },
+        {
+          "ward": "Don Valley East",
+          "value": 11576
+        },
+        {
+          "ward": "Don Valley North",
+          "value": 5683
+        },
+        {
+          "ward": "Willowdale",
+          "value": 15548
+        },
+        {
+          "ward": "Beaches-East York",
+          "value": 6192
+        },
+        {
+          "ward": "Scarborough Southwest",
+          "value": 6126
+        },
+        {
+          "ward": "Scarborough Centre",
+          "value": 12123
+        },
+        {
+          "ward": "Scarborough-Agincourt",
+          "value": 3208
+        },
+        {
+          "ward": "Scarborough North",
+          "value": 894
+        },
+        {
+          "ward": "Scarborough-Guildwood",
+          "value": 7685
+        },
+        {
+          "ward": "Scarborough-Rouge Park",
+          "value": 660
+        }
+      ]
+    },
+    {
+      "desc": "Approved OPAs and Zoning By-law Amendments",
+      "rows": [
+        {
+          "ward": "Etobicoke North",
+          "value": 500
+        },
+        {
+          "ward": "Etobicoke Centre",
+          "value": 4554
+        },
+        {
+          "ward": "Etobicoke-Lakeshore",
+          "value": 20331
+        },
+        {
+          "ward": "Parkdale-High Park",
+          "value": 3422
+        },
+        {
+          "ward": "York South-Weston",
+          "value": 9445
+        },
+        {
+          "ward": "York Centre",
+          "value": 7727
+        },
+        {
+          "ward": "Humber River-Black Creek",
+          "value": 7375
+        },
+        {
+          "ward": "Eglinton-Lawrence",
+          "value": 1352
+        },
+        {
+          "ward": "Davenport",
+          "value": 2964
+        },
+        {
+          "ward": "Spadina-Fort York",
+          "value": 15614
+        },
+        {
+          "ward": "University-Rosedale",
+          "value": 8879
+        },
+        {
+          "ward": "Toronto-St. Paul’s",
+          "value": 15017
+        },
+        {
+          "ward": "Toronto Centre",
+          "value": 23312
+        },
+        {
+          "ward": "Toronto-Danforth",
+          "value": 1267
+        },
+        {
+          "ward": "Don Valley West",
+          "value": 677
+        },
+        {
+          "ward": "Don Valley East",
+          "value": 11015
+        },
+        {
+          "ward": "Don Valley North",
+          "value": 9918
+        },
+        {
+          "ward": "Willowdale",
+          "value": 9776
+        },
+        {
+          "ward": "Beaches-East York",
+          "value": 1600
+        },
+        {
+          "ward": "Scarborough Southwest",
+          "value": 1740
+        },
+        {
+          "ward": "Scarborough Centre",
+          "value": 3129
+        },
+        {
+          "ward": "Scarborough-Agincourt",
+          "value": 2710
+        },
+        {
+          "ward": "Scarborough North",
+          "value": 2838
+        },
+        {
+          "ward": "Scarborough-Guildwood",
+          "value": 4453
+        },
+        {
+          "ward": "Scarborough-Rouge Park",
+          "value": 1078
+        }
+      ]
+    },
+    {
+      "desc": "Approved Site Plan Applications",
+      "rows": [
+        {
+          "ward": "Etobicoke North",
+          "value": 146
+        },
+        {
+          "ward": "Etobicoke Centre",
+          "value": 3224
+        },
+        {
+          "ward": "Etobicoke-Lakeshore",
+          "value": 7081
+        },
+        {
+          "ward": "Parkdale-High Park",
+          "value": 5216
+        },
+        {
+          "ward": "York South-Weston",
+          "value": 1131
+        },
+        {
+          "ward": "York Centre",
+          "value": 1784
+        },
+        {
+          "ward": "Humber River-Black Creek",
+          "value": 0
+        },
+        {
+          "ward": "Eglinton-Lawrence",
+          "value": 2838
+        },
+        {
+          "ward": "Davenport",
+          "value": 5191
+        },
+        {
+          "ward": "Spadina-Fort York",
+          "value": 11518
+        },
+        {
+          "ward": "University-Rosedale",
+          "value": 6907
+        },
+        {
+          "ward": "Toronto-St. Paul’s",
+          "value": 4168
+        },
+        {
+          "ward": "Toronto Centre",
+          "value": 12928
+        },
+        {
+          "ward": "Toronto-Danforth",
+          "value": 2518
+        },
+        {
+          "ward": "Don Valley West",
+          "value": 3513
+        },
+        {
+          "ward": "Don Valley East",
+          "value": 2383
+        },
+        {
+          "ward": "Don Valley North",
+          "value": 3341
+        },
+        {
+          "ward": "Willowdale",
+          "value": 1426
+        },
+        {
+          "ward": "Beaches-East York",
+          "value": 2697
+        },
+        {
+          "ward": "Scarborough Southwest",
+          "value": 1731
+        },
+        {
+          "ward": "Scarborough Centre",
+          "value": 2154
+        },
+        {
+          "ward": "Scarborough-Agincourt",
+          "value": 1420
+        },
+        {
+          "ward": "Scarborough North",
+          "value": 239
+        },
+        {
+          "ward": "Scarborough-Guildwood",
+          "value": 1639
+        },
+        {
+          "ward": "Scarborough-Rouge Park",
+          "value": 1711
+        }
+      ]
+    },
+    {
+      "desc": "Building Permit Applications",
+      "rows": [
+        {
+          "ward": "Etobicoke North",
+          "value": 81
+        },
+        {
+          "ward": "Etobicoke Centre",
+          "value": 1391
+        },
+        {
+          "ward": "Etobicoke-Lakeshore",
+          "value": 5630
+        },
+        {
+          "ward": "Parkdale-High Park",
+          "value": 1978
+        },
+        {
+          "ward": "York South-Weston",
+          "value": 1421
+        },
+        {
+          "ward": "York Centre",
+          "value": 1938
+        },
+        {
+          "ward": "Humber River-Black Creek",
+          "value": 227
+        },
+        {
+          "ward": "Eglinton-Lawrence",
+          "value": 1055
+        },
+        {
+          "ward": "Davenport",
+          "value": 2581
+        },
+        {
+          "ward": "Spadina-Fort York",
+          "value": 5336
+        },
+        {
+          "ward": "University-Rosedale",
+          "value": 4294
+        },
+        {
+          "ward": "Toronto-St. Paul’s",
+          "value": 3587
+        },
+        {
+          "ward": "Toronto Centre",
+          "value": 4826
+        },
+        {
+          "ward": "Toronto-Danforth",
+          "value": 1084
+        },
+        {
+          "ward": "Don Valley West",
+          "value": 1596
+        },
+        {
+          "ward": "Don Valley East",
+          "value": 381
+        },
+        {
+          "ward": "Don Valley North",
+          "value": 1619
+        },
+        {
+          "ward": "Willowdale",
+          "value": 2830
+        },
+        {
+          "ward": "Beaches-East York",
+          "value": 2753
+        },
+        {
+          "ward": "Scarborough Southwest",
+          "value": 3399
+        },
+        {
+          "ward": "Scarborough Centre",
+          "value": 2758
+        },
+        {
+          "ward": "Scarborough-Agincourt",
+          "value": 1113
+        },
+        {
+          "ward": "Scarborough North",
+          "value": 17
+        },
+        {
+          "ward": "Scarborough-Guildwood",
+          "value": 391
+        },
+        {
+          "ward": "Scarborough-Rouge Park",
+          "value": 968
+        }
+      ]
+    },
+    {
+      "desc": "Issued Permits",
+      "rows": [
+        {
+          "ward": "Etobicoke North",
+          "value": 86
+        },
+        {
+          "ward": "Etobicoke Centre",
+          "value": 56
+        },
+        {
+          "ward": "Etobicoke-Lakeshore",
+          "value": 251
+        },
+        {
+          "ward": "Parkdale-High Park",
+          "value": 231
+        },
+        {
+          "ward": "York South-Weston",
+          "value": 97
+        },
+        {
+          "ward": "York Centre",
+          "value": 50
+        },
+        {
+          "ward": "Humber River-Black Creek",
+          "value": 384
+        },
+        {
+          "ward": "Eglinton-Lawrence",
+          "value": 91
+        },
+        {
+          "ward": "Davenport",
+          "value": 266
+        },
+        {
+          "ward": "Spadina-Fort York",
+          "value": 60
+        },
+        {
+          "ward": "University-Rosedale",
+          "value": 174
+        },
+        {
+          "ward": "Toronto-St. Paul’s",
+          "value": 197
+        },
+        {
+          "ward": "Toronto Centre",
+          "value": 41
+        },
+        {
+          "ward": "Toronto-Danforth",
+          "value": 142
+        },
+        {
+          "ward": "Don Valley West",
+          "value": 100
+        },
+        {
+          "ward": "Don Valley East",
+          "value": 35
+        },
+        {
+          "ward": "Don Valley North",
+          "value": 56
+        },
+        {
+          "ward": "Willowdale",
+          "value": 127
+        },
+        {
+          "ward": "Beaches-East York",
+          "value": 99
+        },
+        {
+          "ward": "Scarborough Southwest",
+          "value": 100
+        },
+        {
+          "ward": "Scarborough Centre",
+          "value": 91
+        },
+        {
+          "ward": "Scarborough-Agincourt",
+          "value": 220
+        },
+        {
+          "ward": "Scarborough North",
+          "value": 10
+        },
+        {
+          "ward": "Scarborough-Guildwood",
+          "value": 396
+        },
+        {
+          "ward": "Scarborough-Rouge Park",
+          "value": 66
+        }
+      ]
+    },
+    {
+      "desc": "Construction Starts",
+      "rows": [
+        {
+          "ward": "Etobicoke North",
+          "value": 278
+        },
+        {
+          "ward": "Etobicoke Centre",
+          "value": 1737
+        },
+        {
+          "ward": "Etobicoke-Lakeshore",
+          "value": 3306
+        },
+        {
+          "ward": "Parkdale-High Park",
+          "value": 1645
+        },
+        {
+          "ward": "York South-Weston",
+          "value": 1433
+        },
+        {
+          "ward": "York Centre",
+          "value": 2100
+        },
+        {
+          "ward": "Humber River-Black Creek",
+          "value": 359
+        },
+        {
+          "ward": "Eglinton-Lawrence",
+          "value": 2020
+        },
+        {
+          "ward": "Davenport",
+          "value": 3611
+        },
+        {
+          "ward": "Spadina-Fort York",
+          "value": 9022
+        },
+        {
+          "ward": "University-Rosedale",
+          "value": 6753
+        },
+        {
+          "ward": "Toronto-St. Paul’s",
+          "value": 3248
+        },
+        {
+          "ward": "Toronto Centre",
+          "value": 10257
+        },
+        {
+          "ward": "Toronto-Danforth",
+          "value": 1941
+        },
+        {
+          "ward": "Don Valley West",
+          "value": 1572
+        },
+        {
+          "ward": "Don Valley East",
+          "value": 3942
+        },
+        {
+          "ward": "Don Valley North",
+          "value": 2654
+        },
+        {
+          "ward": "Willowdale",
+          "value": 2940
+        },
+        {
+          "ward": "Beaches-East York",
+          "value": 1433
+        },
+        {
+          "ward": "Scarborough Southwest",
+          "value": 1558
+        },
+        {
+          "ward": "Scarborough Centre",
+          "value": 1124
+        },
+        {
+          "ward": "Scarborough-Agincourt",
+          "value": 1766
+        },
+        {
+          "ward": "Scarborough North",
+          "value": 380
+        },
+        {
+          "ward": "Scarborough-Guildwood",
+          "value": 896
+        },
+        {
+          "ward": "Scarborough-Rouge Park",
+          "value": 866
+        }
+      ]
+    }
+  ]
+}

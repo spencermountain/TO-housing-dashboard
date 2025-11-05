@@ -8,8 +8,7 @@ import getWards from './getWards.js';
 const dir = path.dirname(fileURLToPath(import.meta.url))
 
 // const url = 'https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/housing-data/'
-// const url = `file://${path.join(dir, '../_cache/2025-11-05.html')}`
-const url = `file://${path.join(dir, '../_cache/part2.html')}`
+const url = `file://${path.join(dir, '../_cache/2025-11-05.html')}`
 const today = spacetime.now('America/Toronto').format('YYYY-MM-DD');
 const output = `data/${today}.json`;
 
