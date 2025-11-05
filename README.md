@@ -2,7 +2,11 @@ Scraper for Toronto's [housing dashboard](https://www.toronto.ca/city-government
 
 Built as a handy utility to get structured JSON data from Toronto's public housing dashboard page.
 
-Intended to be used lightly, as the dashboard updates infrequently. Please respect the city's web endpoint and [their terms](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/).
+Intended to be used lightly, as the dashboard updates infrequently. 
+
+Please respect the city's web endpoint and [their legal terms](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/).
+
+---
 
 ### Output format
 The data outputs can be viewed in the [`./data`](https://github.com/spencermountain/TO-housing-dashboard/tree/main/data) directory.
@@ -45,12 +49,17 @@ written in Node using playwright.
 
 this webpage loads slowly, so please wait 10-15 seconds as it loads.
 
-to run:
+to install:
 ```
 npm install
 npx playwright install #(takes a minute)
+```
+
+to run:
+```
 npm run start
 ```
 
+when it's working, you data should appear in `./data` under the current date.
 
 MIT
