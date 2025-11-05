@@ -1,0 +1,24 @@
+{
+  "name": "to-housing-dashboard",
+  "version": "0.0.1",
+  "description": "scraper for torontos housing dashboard data",
+  "homepage": "https://github.com/spencermountain/to-housing-dashboard#readme",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencermountain/to-housing-dashboard.git"
+  },
+  "license": "MIT",
+  "author": "spencermountain",
+  "dependencies": {
+    "spacetime": "^7.11.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
