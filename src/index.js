@@ -5,18 +5,20 @@ import path from 'path';
 import { fileURLToPath } from 'url'
 import getCards from './getCards.js';
 import getWards from './getWards.js';
-const dir = path.dirname(fileURLToPath(import.meta.url))
 
-// const url = 'https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/housing-data/'
-const url = `file://${path.join(dir, '../_cache/2025-11-05.html')}`
+const url = 'https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/housing-data/'
+// use cached page for testing
+// const dir = path.dirname(fileURLToPath(import.meta.url))
+// const url = `file://${path.join(dir, '../_cache/2025-11-05.html')}`
+
 const today = spacetime.now('America/Toronto').format('YYYY-MM-DD');
 const output = `data/${today}.json`;
-
 
 const browser = await chromium.launch({ headless: true });
 const page = await browser.newPage();
 
 // this page loads very slowly, so we wait for 60 seconds
+console.log('Loading dashboard page. May take a while...');
 await page.goto(url, {
   waitUntil: 'networkidle',
   timeout: 3 * 60000 // 3 minutes

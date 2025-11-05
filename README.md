@@ -1,12 +1,16 @@
-Scraper for Toronto's [housing dashboard](https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/housing-data/) data
+Structed data and Scraper for Toronto's [housing dashboard](https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/housing-data/) data
 
-Built as a handy utility to get JSON from Toronto's public housing dashboard page.
+Built as a handy utility to get JSON from Toronto's public housing dashboard page. 
+Intended to be used lightly, as the dashboard updates. 
 
+Please respect the city's web endpoint, when using this library.
 
 ### Output format
-The data is split in two parts- `cards` and `wards`
+The data outputs can be viewed in `./data`
 
-```json
+Results are split in two parts- `cards` and `wards`:
+
+```js
 {
   "date": "2025-11-05",
   "cards": [
