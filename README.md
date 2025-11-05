@@ -1,15 +1,15 @@
-Scraper for Toronto's [housing dashboard](https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/housing-data/) data
+Scraper for Toronto's Municipal [Housing Dashboard](https://www.toronto.ca/city-government/data-research-maps/toronto-housing-data-hub/housing-data/) data
 
-Built as a handy utility to get structured JSON data from Toronto's public housing dashboard page.
+Built as a handy utility to get structured JSON data from Toronto's public dashboard page.
 
 Intended to be used lightly, as the dashboard updates infrequently. 
 
-Please respect the city's web endpoint and [their legal terms](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/).
+Please respect the city's web endpoint and their reasonable [legal terms](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/).
 
 ---
 
 ### Output format
-The data outputs can be viewed in the [`./data`](https://github.com/spencermountain/TO-housing-dashboard/tree/main/data) directory.
+Latest JSON data can be viewed in the [`./data`](https://github.com/spencermountain/TO-housing-dashboard/tree/main/data) directory on github.
 
 Results are split in two parts- `cards` and `wards`:
 
@@ -45,18 +45,18 @@ Results are split in two parts- `cards` and `wards`:
 ---
 
 ### Usage:
-written in Node using playwright.
+written in Node using [playwright](https://playwright.dev/).
 
-this webpage loads slowly, so please wait 10-15 seconds as it loads.
+the dashboard loads slowly, so please be patient and wait 10-15 seconds for the script to complete.
 
 to install:
-```
+```bash
 npm install
-npx playwright install #(takes a minute)
+npx playwright install #takes ~2 minutes
 ```
 
 to run:
-```
+```bash
 npm run start
 ```
 
